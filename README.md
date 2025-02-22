@@ -32,7 +32,7 @@ To get started with WeDoScribble, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/wedoscribble.git
+    git clone https://github.com/malbiruk/wedoscribble.git
     cd wedoscribble
     ```
 
